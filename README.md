@@ -1,8 +1,8 @@
 # Fundamental-Algorithms-in-C
 
-*General Purpose Sorting Algorithms header.
+*General Purpose Sorting Algorithms header*
 
-*Contains (algorithms):
+*Contains (algorithms)*
 
 1- Bubble sort.
 
@@ -11,7 +11,7 @@
 3- Merge sort. 
 
 
-*Contains (sub):
+*Contains (sub)*
 
 1- Swap function.
 
