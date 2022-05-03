@@ -10,6 +10,8 @@
 
 3-Merge sort. 
 
+4-Array reverse.
+
 *Contains (sub)*:
 
 1-Swap function.
